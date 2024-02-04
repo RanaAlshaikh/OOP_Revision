@@ -71,4 +71,4 @@ public class Lab1Test {
             assertTrue(p1.getWeight() > 0);
         }
     }
-}
+} 
